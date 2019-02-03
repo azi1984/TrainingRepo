@@ -6,7 +6,7 @@ FROM Production.ProductInventory
 SELECT *
 FROm Production.Product
 -----------
-SELECT *
+SELECT * 
 FROM Production.Location
 ---------
 SELECT 
