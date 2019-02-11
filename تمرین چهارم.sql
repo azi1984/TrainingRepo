@@ -1,4 +1,6 @@
-﻿
+﻿use AdventureWorks2017
+go
+
 Select Top 1 R.ProductName
 
 FROM 
